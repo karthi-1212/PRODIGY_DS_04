@@ -6,8 +6,6 @@
 This repository is dedicated to exploring sentiment trends in social media content to uncover public sentiments towards particular topics or brands. By employing methods like data preprocessing, sentiment analysis using NLP, and visualization techniques such as word clouds and graphs, this project aims to offer valuable insights into public opinion dynamics. The findings derived from this analysis can be instrumental for businesses, researchers, and individuals seeking to comprehend and monitor public attitudes effectively.
 
 ## Dataset
-The dataset utilized for this task is the <a href="https://github.com/karthi-1212/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>", accessible at the provided link. It encompasses population records spanning from the year 2001 to 2022, offering a comprehensive view of global demographic trends over time.
-
 This <a href="https://github.com/karthi-1212/PRODIGY_DS_03/blob/main/twitter_training.csv">dataset</a>" focuses on entity-level sentiment analysis on Twitter data. The objective is to determine the sentiment of a message towards a specific entity. The dataset comprises three sentiment classes: Positive, Negative, and Neutral. Messages that are deemed irrelevant to the entity are categorized as Neutral. The task involves assessing the sentiment of messages concerning the specified entity across various social media interactions.
 
 ## Task Description
